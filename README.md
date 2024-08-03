@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/pavankumar4404/Leetcode/tree/master/0120-triangle) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## String
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/pavankumar4404/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/pavankumar4404/Leetcode/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
 | ------- |
