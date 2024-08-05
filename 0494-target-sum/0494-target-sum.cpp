@@ -1,29 +1,41 @@
 class Solution {
-    int solve(int i, int sum, vector<int> &nums, vector<vector<int>> &dp, int offset) {
-        if (i == -1) {
-            return sum == 0 ? 1 : 0;
-        }
-        if (sum + offset < 0 || sum + offset >= dp[0].size()) {
+public:
+    int solve(int ind, int target, vector<int>& nums, vector<vector<int>>& dp) {
+        if (ind == 0) {
+            if (target == 0 && nums[0] == 0)
+                return 2; 
+            if (target == 0 || target == nums[0])
+                return 1; 
             return 0;
         }
-        if (dp[i][sum + offset] != INT_MIN) return dp[i][sum + offset];
-        int pos = solve(i - 1, sum + nums[i], nums, dp, offset);
-        int neg = solve(i - 1, sum - nums[i], nums, dp, offset);
-        return dp[i][sum + offset] = pos + neg;
+        
+        if (dp[ind][target] != -1)
+            return dp[ind][target];
+            
+        int notTaken = solve(ind - 1, target, nums, dp);
+        
+        int taken = 0;
+        if (nums[ind] <= target)
+            taken = solve(ind - 1, target - nums[ind], nums, dp);
+            
+        return dp[ind][target] = (notTaken + taken);
     }
 
-public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
-        int total = accumulate(nums.begin(), nums.end(), 0);
-        if (abs(target) > total) return 0; // Early exit if target is not reachable
+        int totSum = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            totSum += nums[i];
+        }
         
-        // Initialize dp array with INT_MIN
-        vector<vector<int>> dp(n, vector<int>(2 * total + 1, INT_MIN));
+        if (totSum - target < 0)
+            return 0; 
+        if ((totSum - target) % 2 == 1)
+            return 0;
         
-        // Offset to handle negative indices
-        int offset = total;
-
-        return solve(n - 1, target, nums, dp, offset);
+        int s2 = (totSum - target) / 2; 
+        
+        vector<vector<int>> dp(n, vector<int>(s2 + 1, -1)); 
+        return solve(n - 1, s2, nums, dp); 
     }
 };
