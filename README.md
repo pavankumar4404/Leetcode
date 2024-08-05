@@ -10,10 +10,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/pavankumar4404/Leetcode/tree/master/0120-triangle) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## String
 |  |
 | ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Depth-First Search
 |  |
@@ -59,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Hash Table
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
