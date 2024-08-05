@@ -1,23 +1,24 @@
 class Solution {
-    int solve(int i, int buy, int cap, vector<int> &prices, vector<vector<vector<int>>> &dp){
-        if(cap == 0) return 0;
+    // 0 - Buy, 1 - sell, 2 - buy, 3 - sell
+    int solve(int i, int transactions, vector<int> &prices, vector<vector<int>> &dp){
+        if(transactions == 4) return 0;
         if(i == prices.size()) return 0;
 
-        if(dp[i][buy][cap] != -1) return dp[i][buy][cap];
+        if(dp[i][transactions] != -1) return dp[i][transactions];
 
         int profit = 0;
-        if(buy){
-            profit = max(-prices[i] + solve(i+1, 0, cap, prices, dp), solve(i+1, 1, cap, prices, dp));
+        if(transactions % 2 == 0){
+            profit = max(-prices[i] + solve(i+1, transactions + 1, prices, dp), solve(i+1, transactions, prices, dp));
         }
         else{
-            profit = max(prices[i] + solve(i+1, 1, cap-1, prices, dp), solve(i+1, 0, cap, prices,dp));
+            profit = max(prices[i] + solve(i+1, transactions + 1, prices, dp), solve(i+1, transactions, prices, dp));
         }
-        return dp[i][buy][cap] = profit;
+        return dp[i][transactions] = profit;
     }
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(3, -1)));
-        return solve(0, 1, 2, prices, dp);
+        vector<vector<int>> dp(n, vector<int>(4, -1));
+        return solve(0, 0, prices, dp);
     }
 };
