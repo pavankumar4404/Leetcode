@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,14 +74,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,4 +93,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
