@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pavankumar4404/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0494-target-sum) |
+| [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
