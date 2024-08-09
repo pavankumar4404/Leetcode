@@ -33,27 +33,20 @@ public:
         // return dp[0][1];
 
 
-        // vector<int> next(2, 0), cur(2,0);
-        // for(int i=n-1; i>=0; i--){
-        //     for(int buy=0; buy<=1; buy++){
-        //         if(buy == 1){
-        //             cur[buy] = max(-prices[i] + next[0],      //buy
-        //                             next[1]);                 //don't buy
-        //         }
-        //         else {
-        //             cur[buy] = max(prices[i] + next[1],       //sell
-        //                             next[0]);              //don't sell
-        //         }
-        //     }
-        //     next = cur;
-        // }
-        // return cur[1];
-
-        // greedy
-        int ans = 0;
-        for(int i=1; i<n; i++){
-            if(prices[i] >= prices[i-1]) ans += prices[i]-prices[i-1];
+        vector<int> next(2, 0), cur(2,0);
+        for(int i=n-1; i>=0; i--){
+            for(int buy=0; buy<=1; buy++){
+                if(buy == 1){
+                    cur[buy] = max(-prices[i] + next[0],      //buy
+                                    next[1]);                 //don't buy
+                }
+                else {
+                    cur[buy] = max(prices[i] + next[1],       //sell
+                                    next[0]);              //don't sell
+                }
+            }
+            next = cur;
         }
-        return ans;
+        return cur[1];
     }
 };
