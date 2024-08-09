@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/pavankumar4404/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0044-wildcard-matching](https://github.com/pavankumar4404/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pavankumar4404/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pavankumar4404/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/pavankumar4404/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -107,10 +109,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/pavankumar4404/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/pavankumar4404/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
