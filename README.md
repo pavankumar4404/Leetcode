@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/pavankumar4404/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/pavankumar4404/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavankumar4404/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/pavankumar4404/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/pavankumar4404/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/pavankumar4404/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankumar4404/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
