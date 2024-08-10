@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/pavankumar4404/Leetcode/tree/master/0061-rotate-list) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/pavankumar4404/Leetcode/tree/master/0044-wildcard-matching) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/pavankumar4404/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
