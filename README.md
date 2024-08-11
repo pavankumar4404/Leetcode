@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/pavankumar4404/Leetcode/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/pavankumar4404/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1300-critical-connections-in-a-network](https://github.com/pavankumar4404/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Graph
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/pavankumar4404/Leetcode/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pavankumar4404/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/pavankumar4404/Leetcode/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/pavankumar4404/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
@@ -176,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pavankumar4404/Leetcode/tree/master/0085-maximal-rectangle) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
