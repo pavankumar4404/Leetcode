@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavankumar4404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/pavankumar4404/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavankumar4404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/pavankumar4404/Leetcode/tree/master/0061-rotate-list) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavankumar4404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/pavankumar4404/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
