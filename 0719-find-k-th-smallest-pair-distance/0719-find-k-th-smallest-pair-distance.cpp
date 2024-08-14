@@ -1,21 +1,34 @@
 class Solution {
 public:
-    // int arr[1000002] = {0};
+    int check(vector<int>& nums, int mid) {
+        int pairs = 0;
+        int i = 0;
+        int j = 1, n = nums.size();
+        while(j < n){
+            while (j < n && nums[j] - nums[i] > mid)
+                i++;
+        
+            pairs += (j - i);
+            j++;
+        }
+        return pairs;
+    }
     int smallestDistancePair(vector<int>& nums, int k) {
         int n = nums.size();
-        int maxi = *max_element(nums.begin(), nums.end());
-        vector<int> arr(maxi + 1, 0);
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int diff = abs(nums[i] - nums[j]);
-                arr[diff]++;
+        sort(nums.begin(), nums.end());
+        int l = 0, r = nums[n - 1] - nums[0];
+        int ans = 0;
+        while (l <= r) {
+            int mid = (l + r) / 2;
+            int countPairs = check(nums, mid);
+            if (countPairs < k) {
+                l = mid + 1;
+            }
+            else {
+                r = mid - 1;
+                ans = mid;
             }
         }
-        for (int i = 0; i < 1e6 + 2; i++) {
-            k -= arr[i];
-            if (k <= 0)
-                return i;
-        }
-        return -1;
+        return ans;
     }
 };
