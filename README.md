@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0494-target-sum) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pavankumar4404/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
@@ -116,12 +117,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavankumar4404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/pavankumar4404/Leetcode/tree/master/0061-rotate-list) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
