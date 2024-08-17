@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/pavankumar4404/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## String
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavankumar4404/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/pavankumar4404/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Combinatorics
 |  |
 | ------- |
