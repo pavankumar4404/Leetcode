@@ -19,7 +19,8 @@ public:
     long long maxEnergyBoost(vector<int>& energyDrinkA, vector<int>& energyDrinkB) {
         int n = energyDrinkA.size();
         vector<vector<long long>> dp(n+1, vector<long long> (2, -1));
-        return max(solve(n-1, 0, energyDrinkA, energyDrinkB, dp), 
-        solve(n-1, 1, energyDrinkA, energyDrinkB, dp));
+        long long a = solve(n-1, 0, energyDrinkA, energyDrinkB, dp);
+        long long b = solve(n-1, 1, energyDrinkA, energyDrinkB, dp);
+        return max(a, b);
     }
 };
