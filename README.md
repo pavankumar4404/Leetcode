@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavankumar4404/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/pavankumar4404/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavankumar4404/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pavankumar4404/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/pavankumar4404/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Combinatorics
 |  |
 | ------- |
