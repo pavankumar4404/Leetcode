@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pavankumar4404/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/pavankumar4404/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pavankumar4404/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pavankumar4404/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pavankumar4404/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pavankumar4404/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/pavankumar4404/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pavankumar4404/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pavankumar4404/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
@@ -282,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/pavankumar4404/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/pavankumar4404/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pavankumar4404/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
