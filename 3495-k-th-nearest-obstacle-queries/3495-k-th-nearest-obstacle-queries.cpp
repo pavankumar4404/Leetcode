@@ -10,10 +10,8 @@ public:
             pq.push(d);
             if(pq.size() > k){
                 pq.pop();
-                ans[i] = pq.top();  
             }
-            // if(pq.size() == k) 
-             
+            if(pq.size() == k) ans[i] = pq.top();   
         }
         return ans;
     }
