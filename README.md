@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/pavankumar4404/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/pavankumar4404/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/pavankumar4404/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pavankumar4404/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavankumar4404/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/pavankumar4404/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/pavankumar4404/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/pavankumar4404/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/pavankumar4404/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Binary Tree
 |  |
 | ------- |
