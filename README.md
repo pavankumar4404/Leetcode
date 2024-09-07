@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3540-hash-divided-string](https://github.com/pavankumar4404/Leetcode/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/pavankumar4404/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pavankumar4404/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/pavankumar4404/Leetcode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pavankumar4404/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3568-find-the-key-of-the-numbers](https://github.com/pavankumar4404/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Dynamic Programming
 |  |
