@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/pavankumar4404/Leetcode/tree/master/0476-number-complement) |
 ## Shortest Path
 |  |
