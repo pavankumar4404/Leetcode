@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1325-path-with-maximum-probability](https://github.com/pavankumar4404/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pavankumar4404/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pavankumar4404/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/pavankumar4404/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavankumar4404/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0461-hamming-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/pavankumar4404/Leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pavankumar4404/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavankumar4404/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pavankumar4404/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Shortest Path
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/pavankumar4404/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pavankumar4404/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
