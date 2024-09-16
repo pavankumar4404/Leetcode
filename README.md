@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0494-target-sum) |
+| [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavankumar4404/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/pavankumar4404/Leetcode/tree/master/0890-lemonade-change) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pavankumar4404/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavankumar4404/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/pavankumar4404/Leetcode/tree/master/0664-strange-printer) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/pavankumar4404/Leetcode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/pavankumar4404/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pavankumar4404/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3568-find-the-key-of-the-numbers](https://github.com/pavankumar4404/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/pavankumar4404/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
