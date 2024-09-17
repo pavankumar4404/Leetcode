@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavankumar4404/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/pavankumar4404/Leetcode/tree/master/0664-strange-printer) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/pavankumar4404/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavankumar4404/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavankumar4404/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankumar4404/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0906-walking-robot-simulation](https://github.com/pavankumar4404/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/pavankumar4404/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pavankumar4404/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/pavankumar4404/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/pavankumar4404/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pavankumar4404/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
