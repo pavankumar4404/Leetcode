@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pavankumar4404/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/pavankumar4404/Leetcode/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/pavankumar4404/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pavankumar4404/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavankumar4404/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavankumar4404/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankumar4404/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0208-implement-trie-prefix-tree](https://github.com/pavankumar4404/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0906-walking-robot-simulation](https://github.com/pavankumar4404/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pavankumar4404/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pavankumar4404/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pavankumar4404/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pavankumar4404/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -371,4 +374,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/pavankumar4404/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pavankumar4404/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
