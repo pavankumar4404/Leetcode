@@ -11,21 +11,23 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root, int &ans){
+    int ans = INT_MIN;
+    int solve(TreeNode* root){
         if(!root) return 0;
 
-        int l = solve(root->left, ans);
-        int r = solve(root->right, ans);
+        int leftSum = solve(root->left);
+        int rightSum = solve(root->right);
 
-        ans = max(ans, l + r + root->val); // 1. if ans is found in the subtree, no need to send upwards
-        
-        int sum = root->val + max(l, r); //2. any one from left or right is best
-        ans = max(ans, max(sum, root->val));// 3. both l and r are -ve
-        return max(root->val, sum);
+        int sum1 = root->val + leftSum + rightSum;
+        int sum2 = root->val + max(leftSum, rightSum);
+        int sum3 = root->val;
+        int bestSum = max({sum1, sum2, sum3});
+
+        ans = max(ans, bestSum);
+        return max(sum2, sum3);
     }
     int maxPathSum(TreeNode* root) {
-        int ans = INT_MIN;
-        solve(root, ans);
+        solve(root);
         return ans;
     }
 };
