@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/pavankumar4404/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavankumar4404/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pavankumar4404/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/pavankumar4404/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/pavankumar4404/Leetcode/tree/master/0890-lemonade-change) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/pavankumar4404/Leetcode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/pavankumar4404/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/pavankumar4404/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pavankumar4404/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pavankumar4404/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/pavankumar4404/Leetcode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/pavankumar4404/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankumar4404/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/pavankumar4404/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/pavankumar4404/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pavankumar4404/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/pavankumar4404/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pavankumar4404/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pavankumar4404/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankumar4404/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/pavankumar4404/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavankumar4404/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pavankumar4404/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/pavankumar4404/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavankumar4404/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pavankumar4404/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -345,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pavankumar4404/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pavankumar4404/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/pavankumar4404/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pavankumar4404/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -369,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pavankumar4404/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pavankumar4404/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/pavankumar4404/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavankumar4404/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/pavankumar4404/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
